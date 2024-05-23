@@ -4,7 +4,7 @@ Welcome to my collection of AI/ML data science projects. This repository showcas
 
 ## Projects
 
-1. **[Support Ticket Classification](./SupportTickets)**
+1. **[Support Ticket Classification](./SupportTickets.ipynb)**
    - **Description**: This project explores Natural Language Processing (NLP) techniques.
    - **Tech Stack**: Python, pandas, numpy, nltk, scikit-learn
    - **Highlights**: Key NLP tasks such as text preprocessing and sentiment analysis.
