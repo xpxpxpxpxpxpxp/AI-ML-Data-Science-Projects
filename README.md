@@ -5,10 +5,10 @@ Welcome to my collection of AI/ML data science projects. This repository showcas
 ## Projects
 
 1. **[Support Ticket Classification](./SupportTickets.ipynb)**
-   - **Description**: This project explores Natural Language Processing (NLP) techniques.
-   - **Tech Stack**: Python, pandas, numpy, nltk, scikit-learn
-   - **Highlights**: Key NLP tasks such as text preprocessing and sentiment analysis.
-   - **Files**: Jupyter Notebook, README, requirements.txt
+   - **Description**: This project involves analyzing support ticket data to derive meaningful insights and improve customer support.
+   - **Tech Stack**: Python, pandas, numpy, nltk, scikit-learn, matplotlib, seaborn
+   - **Highlights**: Data cleaning, exploratory data analysis, text processing, machine learning models, and evaluation metrics.
+   - **Files**: Jupyter Notebook, dataset
 
 ## About Me
 
